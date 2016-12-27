@@ -22,10 +22,10 @@
 	</properties>
 	<!-- Remote changes-->
 	<scm>
-			<url>https://github.com/NagireddyGuduru/DMP_REPO</url>
-			<connection>scm:git:https://github.com/NagireddyGuduru/DMP_REPO.git</connection>
-			<developerConnection>scm:git:https://github.com/NagireddyGuduru/DMP_REPO.git</developerConnection>
-	  <tag>HEAD</tag>
+			<url>https://github.com/MADDELAARUNA/ims-project.git</url>
+			<connection>scm:git:https://github.com/MADDELAARUNA/ims-project.git</connection>
+			<developerConnection>scm:git:https://github.com/MADDELAARUNA/ims-project.git</developerConnection>
+	  
   </scm>
 <!--Manju                    -->                    
 		
