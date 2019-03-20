@@ -32,12 +32,10 @@
 	<distributionManagement>
         <repository>
             <id>central</id>
-            <name>maven-releases</name>
             <url>http://localhost:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
-            <id>maven-snapshots</id>
-            <name>maven-snapshots</name>
+            <id>snapshots</id>
             <url>http://localhost:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement> 
